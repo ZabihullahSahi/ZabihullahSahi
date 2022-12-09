@@ -9,7 +9,7 @@
  </div>
  <div allign="left">
 - 🔭 I’m currently working on **Multiple Projects**<br>
-- 👨‍💻 All of my projects are available at [https://linktr.ee/zabisahi](https://linktr.ee/zabisahi)<br>
+- 👨‍💻 All of my projects are available at https://linktr.ee/zabisahi<br>
 - 💬 Ask me about **anything related to web development**<br>
 - 📫 How to reach me **zabihullahsahi81@gmail.com**<br>
 - ⚡ Fun fact **I think I am Lorem Ipsum**<br>
