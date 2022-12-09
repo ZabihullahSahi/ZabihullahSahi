@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zabihullah Sahi</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24297652">
+![coding](https://user-images.githubusercontent.com/107499096/206726400-b0c7d2bd-1ef6-49f6-9429-4f422cf9c89b.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zabihullahsahi&label=Profile%20views&color=0e75b6&style=flat" alt="zabihullahsahi" /> </p>
 
