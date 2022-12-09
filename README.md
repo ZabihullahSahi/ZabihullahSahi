@@ -3,7 +3,7 @@
 
 ![coding](https://user-images.githubusercontent.com/107499096/206726400-b0c7d2bd-1ef6-49f6-9429-4f422cf9c89b.gif)
 
-
+<center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zabihullahsahi&label=Profile%20views&color=0e75b6&style=flat" alt="zabihullahsahi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zabihullahsahi" alt="zabihullahsahi" /></a> </p>
@@ -39,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zabihullahsahi&show_icons=true&locale=en" alt="zabihullahsahi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zabihullahsahi&" alt="zabihullahsahi" /></p>
+  
+  </center>
